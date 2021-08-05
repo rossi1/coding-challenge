@@ -4,7 +4,7 @@
 
 **Database Schemas**
 schema diagram - https://dbdiagram.io/d/610bf67b2ecb310fc3bf3638
-
+schema statement - https://drive.google.com/file/d/10Pc27iOzyytIIZc8WOhxQ3frstjer7fJ/view?usp=sharing
 
 
 ## Technologies Used
